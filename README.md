@@ -1,6 +1,6 @@
 ### Merhaba, BEN PAYİDAR | GİTHUB PROFİLİME HOŞ GELDİN 👋
-
-[![Web Sitem](http://payidarkadir.glitch.me)
+<img src="https://media.discordapp.net/attachments/734789568225869886/752330065924325496/595f0dbcae7849203c98eaf5.jpg" width="100%"/>
+[Web Sitem](http://payidarkadir.glitch.me)
 
 - 🌙 **Gezmeyi Severim**
 - 🌸 **Sohbet Etmeyi Severim**
