@@ -22,4 +22,4 @@
 ### SOSYAL MEDYA 
 
 
-<a href="https://instagram.com/06kadirx">[<img align="left" alt="Node.js" width="26px" src="https://lh3.googleusercontent.com/proxy/kvgOFsSjMMndvx4mAgUo7fb_lBaaAe8b6ygIPybiy0GwNrINZwYr9PFUZ2EtzqQA7BA8NFp7s7qQsewhLkf5rFU202kcAV8vPqeeTpmrOPxuVHc4sNXUvF2VZS0chGSkF_Z370VT" />]("https://instagram.com/06kadirx")</a>
+<a href="https://instagram.com/06kadirx"><img align="left" alt="Node.js" width="26px" src="https://lh3.googleusercontent.com/proxy/kvgOFsSjMMndvx4mAgUo7fb_lBaaAe8b6ygIPybiy0GwNrINZwYr9PFUZ2EtzqQA7BA8NFp7s7qQsewhLkf5rFU202kcAV8vPqeeTpmrOPxuVHc4sNXUvF2VZS0chGSkF_Z370VT">]</a>
