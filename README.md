@@ -2,8 +2,6 @@
 
 [![Web Sitem](http://payidarkadir.glitch.me)
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🌙 **Gezmeyi Severim**
 - 🌸 **Sohbet Etmeyi Severim**
 - 💻 **Kod Yazmayı Severim**
@@ -21,8 +19,6 @@
 <br />
 
 
+### SOSYAL MEDYA 
 
-[website]: http://payidarkadir.glitch.me
-[twitter]: https://twitter.com/payidarorji
-[youtube]: https://www.youtube.com/channel/UCkRznixXsRlFt3A8aUARppg?view_as=subscriber
-[instagram]: https://instagram.com/06kadirx
+[<img align="left" alt="İnstagram" width="30px" src="https://lh3.googleusercontent.com/proxy/kvgOFsSjMMndvx4mAgUo7fb_lBaaAe8b6ygIPybiy0GwNrINZwYr9PFUZ2EtzqQA7BA8NFp7s7qQsewhLkf5rFU202kcAV8vPqeeTpmrOPxuVHc4sNXUvF2VZS0chGSkF_Z370VT" />]: (https://instagram.com/06kadirx)
