@@ -10,9 +10,3 @@
 
 <br />
 <br />
-
-
-### SOSYAL MEDYA 
-
-
-<a href="https://instagram.com/06kadirx"><img align="left" alt="İnstagram" width="50px" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png"></a>
